@@ -1,0 +1,11 @@
+| Vulnerabilidad                        | Descripción                                         | Riesgo  |
+| ------------------------------------- | --------------------------------------------------- | ------- |
+| Contraseñas débiles                   | Facilitan el acceso no autorizado                   | Alto    |
+| Software desactualizado               | Puede contener fallos conocidos                     | Alto    |
+| Falta de cifrado                      | La información viaja sin protección                 | Alto    |
+| Exceso de permisos                    | Usuarios pueden acceder a información no autorizada | Medio   |
+| Falta de respaldos automáticos        | Pérdida total de información ante un fallo          | Medio   |
+| Configuración incorrecta del servidor | Puede abrir puertas a ataques externos              | Alto    |
+| No uso de firewall                    | Todos los puertos quedan expuestos a internet       | Crítico |
+| Acceso físico sin control             | Robo o destrucción del equipo                       | Alto    |
+| Phishing y malware por correo         | Los usuarios pueden ser engañados                   | Alto    |
