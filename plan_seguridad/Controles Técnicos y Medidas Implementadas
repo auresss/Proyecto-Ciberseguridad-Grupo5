@@ -1,0 +1,27 @@
+a) Control de Acceso
+
+Asignación de roles: Administrador, Analista, Usuario.
+
+Uso de contraseñas fuertes y caducidad cada 60 días.
+
+Bloqueo automático de la sesión si el usuario está inactivo.
+
+b) Seguridad en Comunicaciones
+
+Uso obligatorio de HTTPS mediante certificado SSL/TLS.
+
+Cifrado en tránsito entre cliente y servidor.
+
+c) Actualizaciones y Parches
+
+El sistema debe ser actualizado semanalmente.
+
+Se registrarán versiones de software en una bitácora.
+
+d) Respaldo y Recuperación
+
+Copias automáticas de base de datos cada 24 horas.
+
+Copias almacenadas en servidor externo seguro.
+
+Procedimiento de restauración documentado.
