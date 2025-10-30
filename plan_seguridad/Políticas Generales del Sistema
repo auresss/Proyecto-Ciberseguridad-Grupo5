@@ -1,0 +1,9 @@
+Todo usuario debe autenticarse con credenciales únicas.
+
+Se implementará autenticación de dos factores en accesos críticos.
+
+El software deberá mantenerse actualizado.
+
+La información sensible debe almacenarse en formato cifrado.
+
+El acceso al servidor estará limitado mediante firewall.
