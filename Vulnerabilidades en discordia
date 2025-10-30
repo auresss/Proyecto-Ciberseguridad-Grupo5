@@ -1,0 +1,19 @@
+ Vulnerabilidades en Discord
+
+| Vulnerabilidad                          | Descripción                                                                 | Riesgo  |
+| --------------------------------------- | --------------------------------------------------------------------------- | ------- |
+| Contraseñas débiles                     | Facilitan el acceso no autorizado a cuentas de usuarios.                    | Alto    |
+| Falta de autenticación en dos pasos     | Permite que atacantes ingresen si obtienen la contraseña.                   | Alto    |
+| Enlaces o archivos no verificados       | Pueden contener malware o dirigir a sitios falsos.                          | Alto    |
+| Permisos mal configurados               | Usuarios acceden a canales o información no autorizada.                     | Medio   |
+| Uso de bots no confiables               | Algunos bots pueden tener código malicioso o abusar de los permisos.        | Medio   |
+| Falta de cifrado punto a punto          | Las conversaciones no están completamente protegidas.                       | Alto    |
+| Falta de respaldos o registros          | Pérdida de evidencia ante incidentes o eliminación de datos.                | Medio   |
+| Configuración incorrecta del servidor   | Roles y canales abiertos pueden exponer información sensible.               | Alto    |
+| Phishing o suplantación de identidad    | Cuentas falsas pueden engañar a los miembros del grupo.                     | Alto    |
+| Conexión desde redes públicas inseguras | Riesgo de robo de credenciales o interceptación de datos.                   | Crítico |
+| Integraciones externas inseguras        | Conexiones con aplicaciones o servicios no confiables pueden filtrar datos. | Alto    |
+| Falta de políticas de seguridad internas| No existen normas claras sobre el uso y manejo de la información.           | Medio   |
+| Usuarios inactivos con permisos elevados| Cuentas antiguas o inactivas pueden ser aprovechadas por atacantes.         | Medio   |
+| Descargas automáticas habilitadas       | Archivos maliciosos pueden descargarse sin revisión previa.                 | Alto    |
+| Ausencia de monitoreo de actividad      | No se detectan comportamientos sospechosos o accesos no autorizados.        | Alto    |
