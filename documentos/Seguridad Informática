@@ -1,0 +1,48 @@
+1. ¿Qué es la Seguridad Informática?
+
+La seguridad informática es el conjunto de prácticas, procedimientos y herramientas utilizadas para proteger la información y los sistemas de posibles amenazas. Su objetivo principal es garantizar:
+
+Confidencialidad: Solo las personas autorizadas pueden acceder a la información.
+
+Integridad: La información no puede ser alterada o modificada sin permiso.
+
+Disponibilidad: Los datos y servicios deben estar disponibles cuando se necesiten.
+
+Estos 3 principios se conocen como el Triángulo CIA (Confidentiality, Integrity, Availability).
+
+2. Importancia de la Seguridad Informática
+
+La seguridad es fundamental, porque hoy día:
+
+La información es uno de los activos más valiosos.
+
+La mayoría de actividades se realiza mediante sistemas informáticos.
+
+Los ciberataques y robos de datos son cada vez más frecuentes.
+
+Una falla en la seguridad puede causar:
+
+Pérdida de datos importantes
+
+Daño a la reputación de una empresa
+
+Pérdidas económicas
+
+Robo de identidad o acceso no autorizado
+
+3. Buenas Prácticas Básicas de Seguridad
+
+Contraseñas seguras:
+Deben ser largas, únicas y difíciles de adivinar.
+
+No compartir cuentas:
+Cada usuario debe tener su propio acceso.
+
+Actualizaciones periódicas:
+Los sistemas deben mantenerse al día.
+
+Copia de seguridad (Backup):
+Se debe realizar de manera frecuente.
+
+Identificar correos sospechosos (Phishing):
+No abrir enlaces ni archivos desconocidos.
